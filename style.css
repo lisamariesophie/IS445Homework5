@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+}
+
+body {
+  font-family: "Times New Roman", serif;
+}
+
+#wrapper {
+  width: 35%;
+  margin: 0 auto;
+}
+
+h1,
+h2 {
+  text-align: center;
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 42px;
+  margin-bottom: 40px;
+}
+
+h2 {
+  font-size: 32px;
+  margin: 25px 0;
+}
+
+#emails,
+#usernames {
+  border: 3px solid darkgreen;
+  padding: 10px 10px 10px 20px;
+  min-width: 200px;
+}
